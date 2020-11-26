@@ -127,7 +127,7 @@ Run unit tests locally with the following command
 Additionally to trying out this application locally, you can deploy it to a host service. Here you have some 1-click deploy alternatives.
 | Service | |
 |:------------|:------------------------------------------------------------|
-| [Heroku](https://www.heroku.com) | <a href="https://heroku.com/deploy?template=https://github.com/twilio/twilio-voice-notification-app"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a> |
+| [Heroku](https://www.heroku.com) | <a href="https://heroku.com/deploy?template=https://github.com/noorfabid/twilio-url-audio-broadcast"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a> |
 
 Please notice that some free plans might have limitations. We encourage you to research about the hosting services and plans before using them.
 
